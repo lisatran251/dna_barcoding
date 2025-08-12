@@ -1,7 +1,7 @@
 library(seqinr)
 library(bold)
 
-fasta_file <- "peerj-05-3234-s001.fasta"
+fasta_file <- "raw_data/known_set.fasta"
 fasta_data <- read.fasta(file = fasta_file, as.string = TRUE, forceDNAtolower = FALSE)
 seqs <- sapply(fasta_data, function(x) toupper(getSequence(x, as.string = TRUE)))
 ids <- names(fasta_data)
