@@ -1,4 +1,4 @@
-# DNA Barcoding Pipeline
+# DNA Barcoding 
 
 A lightweight, reproducible workflow for COI-based DNA barcoding: from raw sequences to taxonomic assignments and summary reports.
 
