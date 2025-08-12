@@ -14,8 +14,6 @@ This project streamlines common DNA barcoding tasks:
 * Taxonomic assignment against a reference (e.g., BOLD/NCBI-derived COI)
 * Per-sample and project summaries (tables/plots)
 
-> ⚠️ This README describes the typical flow. If your repository structure differs, adjust paths and filenames accordingly.
-
 ## Requirements
 
 * **R** ≥ 4.1
