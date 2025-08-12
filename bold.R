@@ -43,7 +43,7 @@ best_per_taxon <- do.call(rbind, lapply(names(res), function(nm) {
 # Save as CSV without quotes
 write.table(
   best_per_taxon,
-  file = "bold_best_per_taxon_per_seq.csv",
+  file = "results/bold_best_per_taxon_per_seq.csv",
   sep = ",",
   row.names = FALSE,
   quote = FALSE
