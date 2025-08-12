@@ -104,4 +104,4 @@ After a successful run, expect (names may vary):
 ---
 
 **One-line run reminder:**
-From R: `source("R.script")` 💡
+From R: `source("R.script")` 
