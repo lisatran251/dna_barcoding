@@ -1,0 +1,325 @@
+seq_name,ID,taxonomicidentification,similarity
+1A_Rock_shrimp_tempura,BGSF060-15,Penaeus vannamei,1
+1A_Rock_shrimp_tempura,PENAE066-20,Litopenaeus vannamei,0.9983
+1B_Calamari,GBCPH1845-14,Uroteuthis edulis,1
+2B_Gulf_shrimp,GBCM7312-17,Farfantepenaeus aztecus,1
+2B_Gulf_shrimp,BIM485-16,Penaeus aztecus,0.9985
+2B_Gulf_shrimp,GBCMD31201-19,Penaeus isabelae,0.9225
+2B_Gulf_shrimp,GBCMD31266-19,Penaeus subtilis complex sp. morphotype I,0.9204
+2B_Gulf_shrimp,GBMND16804-21,Penaeus paulensis,0.9155
+2B_Gulf_shrimp,GBCMA9781-15,Farfantepenaeus brasiliensis,0.9127
+2B_Gulf_shrimp,GBCMD31268-19,Penaeus subtilis complex sp. morphotype II,0.9122
+2B_Gulf_shrimp,GBCMA9711-15,Farfantepenaeus subtilis,0.9109
+2B_Gulf_shrimp,GBCMD31256-19,Penaeus subtilis,0.9101
+2B_Gulf_shrimp,GBCMA9656-15,Farfantepenaeus paulensis,0.9097
+Litopenaeus_vannamei_KJ679914,BGSF059-15,Penaeus vannamei,1
+Litopenaeus_vannamei_KJ679914,PENAE066-20,Litopenaeus vannamei,0.9933
+Litopenaeus_vannamei_KJ679916,BGSF059-15,Penaeus vannamei,1
+Litopenaeus_vannamei_KJ679916,PENAE066-20,Litopenaeus vannamei,0.9932
+Penaeus_aztecus_BOLD_BIM485_16,SERCI516-14,Farfantepenaeus aztecus,1
+Penaeus_aztecus_BOLD_BIM485_16,BIM485-16,Penaeus aztecus,1
+Penaeus_aztecus_BOLD_BIM485_16,GBCMD31201-19,Penaeus isabelae,0.9221
+Penaeus_aztecus_BOLD_BIM485_16,GBCMD31266-19,Penaeus subtilis complex sp. morphotype I,0.9199
+Penaeus_aztecus_BOLD_BIM485_16,GBMND16804-21,Penaeus paulensis,0.9128
+Penaeus_aztecus_BOLD_BIM485_16,GBCMD31268-19,Penaeus subtilis complex sp. morphotype II,0.9117
+Penaeus_aztecus_BOLD_BIM485_16,GBCMA9781-15,Farfantepenaeus brasiliensis,0.9104
+Penaeus_aztecus_BOLD_BIM485_16,GBCMA9711-15,Farfantepenaeus subtilis,0.9104
+Penaeus_aztecus_BOLD_BIM485_16,GBCMD31256-19,Penaeus subtilis,0.9097
+Penaeus_aztecus_BOLD_BIM485_16,GBCMA9656-15,Farfantepenaeus paulensis,0.9077
+Farfantepenaeus_aztecus_KU905861,SERCI516-14,Farfantepenaeus aztecus,1
+Farfantepenaeus_aztecus_KU905861,BIM485-16,Penaeus aztecus,1
+Farfantepenaeus_aztecus_KU905861,GBCMD31201-19,Penaeus isabelae,0.9221
+Farfantepenaeus_aztecus_KU905861,GBCMD31266-19,Penaeus subtilis complex sp. morphotype I,0.9199
+Farfantepenaeus_aztecus_KU905861,GBMND16804-21,Penaeus paulensis,0.9143
+Farfantepenaeus_aztecus_KU905861,GBCMD31268-19,Penaeus subtilis complex sp. morphotype II,0.9117
+Farfantepenaeus_aztecus_KU905861,GBCMD31256-19,Penaeus subtilis,0.9097
+Farfantepenaeus_aztecus_KU905861,GBCMA9781-15,Farfantepenaeus brasiliensis,0.9094
+Farfantepenaeus_aztecus_KU905861,GBCMA9711-15,Farfantepenaeus subtilis,0.9094
+Farfantepenaeus_aztecus_KU905861,GBCMA9656-15,Farfantepenaeus paulensis,0.9077
+Farfantepenaeus_aztecus_KU905861,GBCMD31162-19,Penaeus brasiliensis,0.9065
+Farfantepenaeus_aztecus_KU905754,SERCI516-14,Farfantepenaeus aztecus,1
+Farfantepenaeus_aztecus_KU905754,BIM485-16,Penaeus aztecus,1
+Farfantepenaeus_aztecus_KU905754,GBCMD31201-19,Penaeus isabelae,0.9221
+Farfantepenaeus_aztecus_KU905754,GBCMD31266-19,Penaeus subtilis complex sp. morphotype I,0.9199
+Farfantepenaeus_aztecus_KU905754,GBMND16804-21,Penaeus paulensis,0.9143
+Farfantepenaeus_aztecus_KU905754,GBCMD31268-19,Penaeus subtilis complex sp. morphotype II,0.9117
+Farfantepenaeus_aztecus_KU905754,GBCMD31256-19,Penaeus subtilis,0.9097
+Farfantepenaeus_aztecus_KU905754,GBCMA9781-15,Farfantepenaeus brasiliensis,0.9094
+Farfantepenaeus_aztecus_KU905754,GBCMA9711-15,Farfantepenaeus subtilis,0.9094
+Farfantepenaeus_aztecus_KU905754,GBCMA9656-15,Farfantepenaeus paulensis,0.9077
+Farfantepenaeus_aztecus_KU905754,GBCMD31162-19,Penaeus brasiliensis,0.9065
+Farfantepenaeus_aztecus_KT959403,SERCI110-12,Farfantepenaeus aztecus,1
+Farfantepenaeus_aztecus_KT959403,BIM485-16,Penaeus aztecus,0.9985
+Farfantepenaeus_aztecus_KT959403,GBCMD31201-19,Penaeus isabelae,0.9206
+Farfantepenaeus_aztecus_KT959403,GBCMD31266-19,Penaeus subtilis complex sp. morphotype I,0.9181
+Farfantepenaeus_aztecus_KT959403,GBMND16804-21,Penaeus paulensis,0.9127
+Farfantepenaeus_aztecus_KT959403,GBCMD31268-19,Penaeus subtilis complex sp. morphotype II,0.9099
+Farfantepenaeus_aztecus_KT959403,GBCMD31256-19,Penaeus subtilis,0.9081
+Farfantepenaeus_aztecus_KT959403,GBCMA9781-15,Farfantepenaeus brasiliensis,0.9076
+Farfantepenaeus_aztecus_KT959403,GBCMA9711-15,Farfantepenaeus subtilis,0.9076
+Farfantepenaeus_aztecus_KT959403,GBCMA9656-15,Farfantepenaeus paulensis,0.9061
+Farfantepenaeus_aztecus_KT959403,GBCMD31162-19,Penaeus brasiliensis,0.905
+Farfantepenaeus_subtilis_KF989462,GBCMA9711-15,Farfantepenaeus subtilis,1
+Farfantepenaeus_subtilis_KF989462,GBCMD31268-19,Penaeus subtilis complex sp. morphotype II,0.9946
+Farfantepenaeus_subtilis_KF989462,GBCMD31256-19,Penaeus subtilis,0.9945
+Farfantepenaeus_subtilis_KF989462,GBCMD31266-19,Penaeus subtilis complex sp. morphotype I,0.9519
+Farfantepenaeus_subtilis_KF989462,GBCMD31201-19,Penaeus isabelae,0.9508
+Farfantepenaeus_subtilis_KF989462,GBCMA9718-15,Farfantepenaeus paulensis,0.918
+Farfantepenaeus_subtilis_KF989462,GBMND16804-21,Penaeus paulensis,0.9149
+Farfantepenaeus_subtilis_KF989462,CRM156-10,Farfantepenaeus aztecus,0.9086
+Farfantepenaeus_brasiliensis_KF783862,PENAE002-20,Farfantepenaeus brasiliensis,1
+Farfantepenaeus_brasiliensis_KF783862,GBCMD31162-19,Penaeus brasiliensis,1
+Farfantepenaeus_brasiliensis_KF989392,GBCMA9781-15,Farfantepenaeus brasiliensis,1
+Farfantepenaeus_brasiliensis_KF989392,GBCMD31149-19,Penaeus brasiliensis,0.9946
+Farfantepenaeus_brasiliensis_KF989412,GBCMA9761-15,Farfantepenaeus brasiliensis,1
+Farfantepenaeus_brasiliensis_KF989412,GBMND16795-21,Penaeus brasiliensis,0.9947
+Farfantepenaeus_paulensis_KF783861,PENAE022-20,Farfantepenaeus paulensis,1
+Farfantepenaeus_paulensis_KF783861,GBMND16802-21,Penaeus paulensis,0.9984
+Farfantepenaeus_paulensis_KF783861,GBCMD31266-19,Penaeus subtilis complex sp. morphotype I,0.9292
+Farfantepenaeus_paulensis_KF783861,GBCMD31192-19,Penaeus isabelae,0.9286
+Farfantepenaeus_paulensis_KF783861,GBCMD31267-19,Penaeus subtilis complex sp. morphotype II,0.9176
+Farfantepenaeus_paulensis_KF783861,GBCMD31260-19,Penaeus subtilis,0.9143
+Farfantepenaeus_paulensis_KF783861,GBCM8165-17,Farfantepenaeus subtilis,0.9139
+Farfantepenaeus_paulensis_KF783861,GBCM7312-17,Farfantepenaeus aztecus,0.9097
+Farfantepenaeus_paulensis_KF989461,GBCMA9712-15,Farfantepenaeus paulensis,1
+Farfantepenaeus_paulensis_KF989461,GBMND16802-21,Penaeus paulensis,0.9964
+Farfantepenaeus_paulensis_KF989461,GBCMD31201-19,Penaeus isabelae,0.9286
+Farfantepenaeus_paulensis_KF989461,GBCMD31266-19,Penaeus subtilis complex sp. morphotype I,0.9274
+Farfantepenaeus_paulensis_KF989461,GBCMD31267-19,Penaeus subtilis complex sp. morphotype II,0.9189
+Farfantepenaeus_paulensis_KF989461,GBCMD31260-19,Penaeus subtilis,0.9176
+Farfantepenaeus_paulensis_KF989461,GBCM8165-17,Farfantepenaeus subtilis,0.9162
+Farfantepenaeus_paulensis_KF989460,PENAE023-20,Farfantepenaeus paulensis,1
+Farfantepenaeus_paulensis_KF989460,GBMND16802-21,Penaeus paulensis,0.9982
+Farfantepenaeus_paulensis_KF989460,GBCMD31201-19,Penaeus isabelae,0.9304
+Farfantepenaeus_paulensis_KF989460,GBCMD31266-19,Penaeus subtilis complex sp. morphotype I,0.9292
+Farfantepenaeus_paulensis_KF989460,GBCMD31267-19,Penaeus subtilis complex sp. morphotype II,0.9207
+Farfantepenaeus_paulensis_KF989460,GBCMD31260-19,Penaeus subtilis,0.9194
+Farfantepenaeus_paulensis_KF989460,GBCM8165-17,Farfantepenaeus subtilis,0.918
+Farfantepenaeus_paulensis_KF989445,PENAE023-20,Farfantepenaeus paulensis,1
+Farfantepenaeus_paulensis_KF989445,GBMND16802-21,Penaeus paulensis,0.9982
+Farfantepenaeus_paulensis_KF989445,GBCMD31201-19,Penaeus isabelae,0.9304
+Farfantepenaeus_paulensis_KF989445,GBCMD31266-19,Penaeus subtilis complex sp. morphotype I,0.9292
+Farfantepenaeus_paulensis_KF989445,GBCMD31267-19,Penaeus subtilis complex sp. morphotype II,0.9207
+Farfantepenaeus_paulensis_KF989445,GBCMD31260-19,Penaeus subtilis,0.9194
+Farfantepenaeus_paulensis_KF989445,GBCM8165-17,Farfantepenaeus subtilis,0.918
+Fenneropenaeus_indicus_KF604889,ISSL007-14,Fenneropenaeus indicus,0.9807
+Fenneropenaeus_indicus_KF604889,GBCMD25052-19,Penaeus indicus,0.9807
+Fenneropenaeus_penicillatus_AY789233,GBMNC67929-20,Penaeus silasi,0.9888
+Fenneropenaeus_penicillatus_AY789233,GBMNA12538-19,Penaeus penicillatus,0.9872
+Fenneropenaeus_penicillatus_AY789233,GBMNB54292-20,Penaeus merguiensis,0.9547
+Fenneropenaeus_penicillatus_AY789233,DAR083-06,Fenneropenaeus indicus,0.9526
+Fenneropenaeus_penicillatus_AY789233,DAR106-06,Fenneropenaeus merguiensis,0.9526
+Fenneropenaeus_penicillatus_AY789233,GBMNC67809-20,Penaeus indicus,0.9486
+Solenocera_membranacea_JQ305940,FCDOP021-07,Solenocera membranacea,1
+Solenocera_membranacea_JQ305940,MIWAD469-13,Solenocera africana,0.9303
+Solenocera_membranacea_JQ305940,MDECA489-10,Solenocera pectinulata,0.8657
+Solenocera_membranacea_JQ305940,MDECA460-10,Solenocera comata,0.864
+Solenocera_membranacea_JQ305940,GBCMD21385-19,Haliporoides triarthrus,0.8623
+Solenocera_membranacea_JQ305940,GBCM6135-17,Metapenaeopsis quinquedentata,0.8607
+Solenocera_membranacea_JQ305940,GBCM6623-17,Metapenaeopsis provocatoria longirostris,0.859
+Solenocera_membranacea_JQ305940,GBCM11501-17,Metapenaeopsis velutina,0.859
+Solenocera_membranacea_JQ305940,FCDOP223-07,Penaeopsis serrata,0.8585
+Solenocera_membranacea_JQ305940,GBCMA10556-15,Metapenaeopsis palmensis,0.8557
+Solenocera_membranacea_JQ305940,GBMNC68782-20,Solenocera crassicornis,0.8555
+Solenocera_membranacea_JQ305940,GBCMD23586-19,Solenocera rathbuni,0.8551
+Solenocera_membranacea_JQ305940,GBCMD21636-19,Pleoticus robustus,0.8534
+Solenocera_membranacea_JQ305940,DAR346-08,Acanthephyra eximia,0.8524
+Solenocera_membranacea_JQ305940,JSDPX039-08,Hymenopenaeus debilis,0.8524
+Solenocera_membranacea_JQ305940,PCMUZ007-16,Solenocera choprai,0.8524
+Hymenopenaeus_debilis_JQ306143,JSDPX038-08,Hymenopenaeus debilis,1
+Hymenopenaeus_debilis_JQ306143,GBCMD28092-19,Hymenopenaeus neptunus,0.8927
+Hymenopenaeus_debilis_JQ306143,DAR346-08,Acanthephyra eximia,0.8894
+Hymenopenaeus_debilis_JQ306143,CCZ2071-17,Hymenopenaeus doris,0.8845
+Hymenopenaeus_debilis_JQ306143,GBCMD21399-19,Haliporoides triarthrus,0.875
+Hymenopenaeus_debilis_JQ306143,MOBIL10881-20,Pleoticus muelleri,0.871
+Hymenopenaeus_debilis_JQ306143,MDECA497-10,Hadropenaeus sp.,0.8696
+Hymenopenaeus_debilis_JQ306143,GBCM17910-19,Mesopenaeus tropicalis,0.8696
+Hymenopenaeus_debilis_JQ306143,GBCMD22932-19,Hymenopenaeus equalis,0.8684
+Hymenopenaeus_debilis_JQ306143,MIWAD469-13,Solenocera africana,0.868
+Sicyonia_lancifer_BOLD_PCMUZ006_16,PCMUZ006-16,Sicyonia lancifer,1
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMD21274-19,Sicyonia dorsalis,0.8456
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBMNE75057-22,Metapenaeopsis stridulans,0.8456
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMD22753-19,Metapenaeopsis barbata,0.845
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMA10673-15,Parapenaeus politus,0.844
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMD22464-19,Sicyonia mixta,0.8425
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMA10680-15,Parapenaeus sextuberculatus,0.8425
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMA10644-15,Parapenaeus americanus,0.8425
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMD24126-19,Metapenaeopsis hilarula,0.8425
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCM11501-17,Metapenaeopsis velutina,0.8418
+Sicyonia_lancifer_BOLD_PCMUZ006_16,FCDOP223-07,Penaeopsis serrata,0.8413
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCM6623-17,Metapenaeopsis provocatoria longirostris,0.841
+Sicyonia_lancifer_BOLD_PCMUZ006_16,CBCC011-10,Parapenaeus longirostris,0.8404
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCM5757-17,Parapenaeus fissuroides,0.8399
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMA10659-15,Parapenaeus investigatoris,0.8394
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCM6135-17,Metapenaeopsis quinquedentata,0.8394
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMA10675-15,Parapenaeus ruberoculatus,0.8379
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMA10653-15,Parapenaeus fissurus,0.8379
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMA10672-15,Parapenaeus perezfarfantae,0.8379
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMD22404-19,Sicyonia picta,0.8376
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBMNE76122-22,Galathea intermedia,0.8375
+Sicyonia_lancifer_BOLD_PCMUZ006_16,GBCMA10670-15,Parapenaeus murrayi,0.8372
+Sicyonia_carinata_KJ841707,MIWAD465-13,Sicyonia carinata,0.9933
+Sicyonia_carinata_KJ841707,MIWAD461-13,Sicyonia galeata,0.9548
+Sicyonia_carinata_KJ841707,GBCMD22559-19,Sicyonia laevigata,0.8889
+Sicyonia_carinata_KJ841707,SEAKY1209-17,Pagurus liochele,0.8717
+Sicyonia_carinata_KJ841707,FLBAR308-17,Sicyonia typica,0.87
+Sicyonia_carinata_KJ841707,FCDOP223-07,Penaeopsis serrata,0.8685
+Sicyonia_carinata_KJ841707,ABBAB286-18,Sicyonia sp.,0.8683
+Sicyonia_carinata_KJ841707,MIWAD048-13,Liocarcinus corrugatus,0.865
+Sicyonia_carinata_KJ841707,GBCM3189-17,Aegla meloi,0.8621
+Sicyonia_carinata_KJ841707,GBMNB52882-20,Eumunida sp. 1 RDC-2019,0.8621
+Sicyonia_carinata_KJ841707,GBMNE69458-22,Phylladiorhynchus nudus,0.8617
+Sicyonia_carinata_KJ841707,EUMU214-07,Eumunida minor,0.86
+Sicyonia_carinata_KJ841707,SEAKY1138-16,Pagurus emmersoni,0.86
+Sicyonia_carinata_KJ841707,GBCMD22519-19,Sicyonia burkenroadi,0.8594
+Sicyonia_carinata_KJ841707,GBCMD25353-19,Hadropenaeus lucasii,0.8571
+Sicyonia_carinata_KJ841707,GBCMD28097-19,Aegla manuinflata,0.8571
+Sicyonia_carinata_KJ841707,AMINV108-08,Sicyonia brevirostris,0.8567
+Sicyonia_carinata_KJ841707,FGMCA148-14,Aegla septentrionalis,0.8567
+Sicyonia_carinata_KJ841707,FGMCA150-14,Aegla jujuyana,0.8567
+Sicyonia_carinata_KJ841707,MLP750-10,Aegla sp. CD7,0.8559
+Sicyonia_carinata_KJ841707,FGMCA109-14,Aegla riolimayana,0.8557
+Sicyonia_carinata_KJ841707,FGMCA107-14,Aegla humahuaca,0.8551
+Sicyonia_carinata_KJ841706,MIWAD465-13,Sicyonia carinata,0.9967
+Sicyonia_carinata_KJ841706,MIWAD461-13,Sicyonia galeata,0.9589
+Sicyonia_carinata_KJ841706,GBCMD22559-19,Sicyonia laevigata,0.8957
+Sicyonia_carinata_KJ841706,ABBAB286-18,Sicyonia sp.,0.884
+Sicyonia_carinata_KJ841706,FLBAR308-17,Sicyonia typica,0.8824
+Sicyonia_carinata_KJ841706,IPID035-10,Penaeopsis serrata,0.8693
+Sicyonia_carinata_KJ841706,SEAKY1209-17,Pagurus liochele,0.8693
+Sicyonia_carinata_KJ841706,GBMNE69458-22,Phylladiorhynchus nudus,0.8674
+Sicyonia_carinata_KJ841706,GBCM3189-17,Aegla meloi,0.8656
+Sicyonia_carinata_KJ841706,FGMCA107-14,Aegla humahuaca,0.8606
+Sicyonia_carinata_KJ841706,AMINV108-08,Sicyonia brevirostris,0.8595
+Sicyonia_carinata_KJ841706,FGMCA108-14,Aegla septentrionalis,0.8595
+Sicyonia_carinata_KJ841706,GBCAB39895-24,Liocarcinus corrugatus,0.8584
+Sicyonia_carinata_KJ841706,GBCMD28097-19,Aegla manuinflata,0.8582
+Sicyonia_carinata_KJ841706,SEAKY1138-16,Pagurus emmersoni,0.8578
+Sicyonia_carinata_KJ841706,FLBAR915-18,Sicyonia stimpsoni,0.8578
+Sicyonia_carinata_KJ841706,GBCMD0216-06,Munida armilla,0.8578
+Sicyonia_carinata_KJ841706,GBMNB52882-20,Eumunida sp. 1 RDC-2019,0.8574
+Sicyonia_carinata_KJ841706,GBCMD25353-19,Hadropenaeus lucasii,0.8566
+Sicyonia_carinata_KJ841706,GBCM3864-17,Aegla riolimayana,0.8566
+Sicyonia_carinata_KJ841706,MLP726-10,Aegla sp. CD1,0.8564
+Sicyonia_carinata_KJ841706,MLP750-10,Aegla sp. CD7,0.8555
+Sicyonia_carinata_KJ841706,GBCMD22526-19,Sicyonia picta,0.8547
+Sicyonia_carinata_KJ841706,GBCMD22519-19,Sicyonia burkenroadi,0.8547
+Sicyonia_carinata_KJ841706,GBCMD22563-19,Parapenaeus americanus,0.8547
+Sicyonia_carinata_KJ841706,MLP756-10,Aegla sp. CD8,0.8546
+Neosarmatium_fourmanoiri_FN392164,GBCMD19370-19,Neosarmatium fourmanoiri,1
+Neosarmatium_fourmanoiri_FN392164,GBCMD5609-13,Neosarmatium meinerti,0.9579
+Neosarmatium_fourmanoiri_FN392164,GBMNC71200-20,Neosarmatium rotundifrons,0.9508
+Neosarmatium_fourmanoiri_FN392164,GBMNC71203-20,Neosarmatium asiaticum,0.9432
+Neosarmatium_fourmanoiri_FN392164,GBCMD28500-19,Sarmatium crassum,0.94
+Neosarmatium_fourmanoiri_FN392164,GBMNF10722-22,Guinearma alberti,0.935
+Neosarmatium_fourmanoiri_FN392164,CRCSR036-09,Sesarma fossarum,0.9347
+Neosarmatium_fourmanoiri_FN392164,GBCMD23382-19,Perisesarma alberti,0.9333
+Neosarmatium_fourmanoiri_FN392164,GBMNF10731-22,Guinearma huzardi,0.9333
+Neosarmatium_fourmanoiri_FN392164,GBMNC72898-20,Sesarma rectum,0.9317
+Dasysyrphus_creper_JX828094,SONT144-10,Dasysyrphus creper,1
+Dasysyrphus_creper_JX828094,CNKLB3703-14,Dasysyrphus pauxillus,0.9833
+Dasysyrphus_creper_JX828094,TTDBW028-08,Dasysyrphus laticaudus,0.9832
+Dasysyrphus_creper_JX828094,MHSYR231-07,Dasysyrphus amalopis,0.9747
+Dasysyrphus_creper_JX828094,LYMAD1024-19,Dasysyrphus venustus,0.974
+Aristeus_alcocki_KJ396317,GBCMA7211-14,Aristeus alcocki,1
+Aristeus_alcocki_KJ396317,MDECA442-10,Aristeus semidentatus,0.9796
+Aristeus_alcocki_KJ396317,PCMUZ008-16,Aristeus virilis,0.9779
+Aristeus_alcocki_KJ396317,GBCMD28232-19,Aristeus mabahissae,0.8895
+Aristeus_alcocki_KJ396317,GBCMD28234-19,Aristeus pallidicauda,0.8778
+Aristeus_alcocki_KJ396317,JSDME075-08,Aristeus antennatus,0.8571
+Aristeus_alcocki_KJ396317,GBMNF7648-22,Pseudaristeus kathleenae,0.8418
+Aristeus_alcocki_KJ396317,GBCMD28573-19,Aristeus sp. ARS1 DJ-2018,0.835
+Aristeus_alcocki_KJ396317,GBMNF7647-22,Pseudaristeus crassipes,0.8316
+Aristeus_alcocki_KJ396317,GBCMD30133-19,Gordonella aff. paravillosa ZS-2018,0.8256
+Aristeus_alcocki_KJ396317,FLBAR252-17,Solenocera atlantidis,0.8214
+Aristeus_alcocki_KJ396317,GBCAB36123-24,Austropenaeus nitidus,0.8214
+Aristeus_alcocki_KJ396317,GBMNB52882-20,Eumunida sp. 1 RDC-2019,0.8214
+Aristeus_alcocki_KJ396317,GBCMD13745-13,Paramunida tenera,0.82
+Aristeus_alcocki_KJ396317,GBCMD0252-06,Munida leptosyne,0.8197
+Aristeus_alcocki_KJ396317,GBCMD22861-19,Solenocera hextii,0.8197
+Aristeus_alcocki_KJ396317,MBCRA111-09,Eumunida funambulus,0.818
+Aristeus_alcocki_KJ396317,ABBAG087-12,Pachycheles cristobalensis,0.818
+Aristeus_alcocki_KJ396317,BCASB015-16,Cestopagurus timidus,0.818
+Aristeus_alcocki_KJ396317,GBMNA12538-19,Penaeus penicillatus,0.818
+Aristeus_alcocki_KJ396317,GBMNF10057-22,Penaeus merguiensis,0.818
+Aristeus_alcocki_KJ396317,DAR161-06,Aristaeopsis edwardsiana,0.8164
+Bentheogennema_borealis_DQ882034,FCDPA051-04,Bentheogennema borealis,1
+Bentheogennema_borealis_DQ882034,GBMND60332-21,Gennadas valens,0.8501
+Bentheogennema_borealis_DQ882034,GBCMD28093-19,Gennadas parvus,0.848
+Bentheogennema_borealis_DQ882034,GBMNB52782-20,Gennadas capensis,0.848
+Bentheogennema_borealis_DQ882034,GBMNC72788-20,Benthoecetes tirmiziae,0.8448
+Bentheogennema_borealis_DQ882034,IPID112-11,Gennadas elegans,0.8362
+Bentheogennema_borealis_DQ882034,DSCRA048-06,Bentheogennema burkenroadi,0.8333
+Bentheogennema_borealis_DQ882034,GBMNB52784-20,Gennadas talismani,0.8333
+Bentheogennema_borealis_DQ882034,GBMNB52771-20,Bentheogennema intermedia,0.8284
+Bentheogennema_borealis_DQ882034,GBCMD25388-19,Xiphopenaeus kroyeri,0.8194
+Bentheogennema_borealis_DQ882034,GBCM17801-19,Acanthephyra curtirostris,0.8191
+Bentheogennema_borealis_DQ882034,GBCMD28591-19,Benthonectes filipes,0.8186
+Bentheogennema_borealis_DQ882034,CCZ2071-17,Hymenopenaeus doris,0.8177
+Bentheogennema_borealis_DQ882034,GBCMD23325-19,Solenocera melantho,0.8177
+Bentheogennema_borealis_DQ882034,GBMNC72790-20,Benthesicymus laciniatus,0.8154
+Bentheogennema_borealis_DQ882034,GBMNB52780-20,Gennadas bouvieri,0.8154
+Bentheogennema_borealis_DQ882034,GBCAB41864-24,Solenocera crassicornis,0.815
+Uroteuthis_edulis_KF413877,GBCPH1845-14,Uroteuthis edulis,1
+Uroteuthis_edulis_KF413879,GBCPH1845-14,Uroteuthis edulis,1
+Uroteuthis_edulis_KC951885,GBCPH1674-14,Uroteuthis edulis,1
+Uroteuthis_edulis_KC951885,GBMNC28611-20,Uroteuthis sp. 1 JATM-2019,0.933
+Loligo_formosana_AY557524,GBMNC25185-20,Uroteuthis chinensis,1
+Loligo_formosana_AY557524,GBMNC25118-20,Sepioteuthis lessoniana,0.9984
+Loligo_formosana_AY557524,GBMNF70894-22,Uroteuthis duvaucelii,0.9967
+Uroteuthis_chinensis_KC959453,QWEAS139-15,Uroteuthis chinensis,1
+Uroteuthis_chinensis_KC959453,GBMNC25118-20,Sepioteuthis lessoniana,0.9985
+Uroteuthis_chinensis_KC959453,GBMNF70894-22,Uroteuthis duvaucelii,0.9984
+Uroteuthis_chinensis_HQ529528,QWEAS139-15,Uroteuthis chinensis,1
+Uroteuthis_chinensis_HQ529528,GBMNC25118-20,Sepioteuthis lessoniana,0.9984
+Uroteuthis_chinensis_HQ529528,GBMNF70894-22,Uroteuthis duvaucelii,0.9984
+Uroteuthis_sp_KC959469,GBMNC28600-20,Uroteuthis sp. 2 JATM-2019,0.9983
+Uroteuthis_sp_KC959469,GBML36941-19,Uroteuthis edulis,0.8894
+Uroteuthis_sp_KC959469,GBMNC28666-20,Uroteuthis sp. 6 JATM-2019,0.8866
+Uroteuthis_sp_KC959469,GBMNC28637-20,Uroteuthis sp. 5 JATM-2019,0.8849
+Uroteuthis_sp_KC959469,GBMNC28532-20,Uroteuthis sp. 4N JATM-2019,0.8849
+Uroteuthis_sp_KC959469,QWEAS139-15,Uroteuthis chinensis,0.8838
+Uroteuthis_sp_KC959469,GBMNC25118-20,Sepioteuthis lessoniana,0.8823
+Loliolus_japonica_HQ529517,QWEAS125-15,Loliolus japonicus,1
+Loliolus_japonica_HQ529517,GBCPH1212-13,Loliolus beka,1
+Loliolus_japonica_HQ529517,GBCPH1406-13,Uroteuthis edulis,0.8889
+Loliolus_japonica_HQ529517,QWEAS120-15,Loliolus uyii,0.8833
+Loliolus_beka_BOLD_AB675090,QWEAS125-15,Loliolus japonicus,1
+Loliolus_beka_BOLD_AB675090,GBCPH1212-13,Loliolus beka,1
+Loliolus_beka_BOLD_AB675090,GBCPH1406-13,Uroteuthis edulis,0.8889
+Loliolus_beka_BOLD_AB675090,QWEAS120-15,Loliolus uyii,0.8833
+Loliolus_japonica_HQ529522,QWEAS130-15,Loliolus japonicus,1
+Loliolus_japonica_HQ529522,GBCPH1212-13,Loliolus beka,0.9985
+Loliolus_japonica_HQ529522,GBCPH1406-13,Uroteuthis edulis,0.8872
+Loliolus_japonica_HQ529522,QWEAS120-15,Loliolus uyii,0.8817
+Uroteuthis_duvauceli_KC959448,GBCPH1312-13,Uroteuthis duvaucelii,1
+Uroteuthis_duvauceli_KC959448,GBMNF73628-22,Uroteuthis chinensis,0.9951
+Uroteuthis_duvauceli_KC959441,GBCPH1319-13,Uroteuthis duvaucelii,1
+Uroteuthis_duvauceli_KC959441,GBMNF73628-22,Uroteuthis chinensis,0.9951
+Alloteuthis_subulata_EU668098,CEPAR028-11,Alloteuthis subulata,1
+Alloteuthis_subulata_EU668098,BNEAC089-13,Alloteuthis sp.,0.9637
+Alloteuthis_subulata_EU668098,CEPAR300-11,Alloteuthis media,0.9622
+Alloteuthis_media_EU668085,CCWW013-11,Alloteuthis media,1
+Alloteuthis_media_EU668085,BNEAC001-13,Alloteuthis sp.,1
+Litopenaeus_setiferus_KT959420,SERCI177-12,Litopenaeus setiferus,1
+Litopenaeus_setiferus_KT959420,GBMNB54339-20,Penaeus setiferus,0.9982
+Litopenaeus_setiferus_KT959420,PENAE056-20,Litopenaeus schmitti,0.9561
+Litopenaeus_setiferus_KT959420,GBCMA8815-14,Penaeus vannamei,0.8958
+Litopenaeus_setiferus_KT959392,SERCI144-12,Litopenaeus setiferus,1
+Litopenaeus_setiferus_KT959392,GBMNB54339-20,Penaeus setiferus,0.9982
+Litopenaeus_setiferus_KT959392,PENAE056-20,Litopenaeus schmitti,0.9561
+Litopenaeus_setiferus_KT959392,GBCMA8815-14,Penaeus vannamei,0.8942
+Litopenaeus_setiferus_KT959392,PMINV452-20,Litopenaeus stylirostris,0.8927
+Litopenaeus_stylirostris_EU517503,GBMTG1503-16,Litopenaeus stylirostris,1
+Litopenaeus_stylirostris_EU517503,GBMNA12536-19,Penaeus stylirostris,1
+Litopenaeus_stylirostris_EU517503,MOBIL10854-20,Penaeus vannamei,0.8954
+Litopenaeus_stylirostris_EU517503,GBCMD31266-19,Penaeus subtilis complex sp. morphotype I,0.8944
+Litopenaeus_stylirostris_EU517503,GBCMD31192-19,Penaeus isabelae,0.8943
+Litopenaeus_stylirostris_EU517503,GBCMD31268-19,Penaeus subtilis complex sp. morphotype II,0.8871
+Farfantepenaeus_californiensis_EU497054,GBMTG1634-16,Farfantepenaeus californiensis,1
+Farfantepenaeus_californiensis_EU497054,GBCMD31163-19,Penaeus californiensis,0.9946
+Farfantepenaeus_californiensis_EU497054,GBCMD31150-19,Penaeus brasiliensis,0.957
+Farfantepenaeus_californiensis_EU497054,GBCMA9756-15,Farfantepenaeus brasiliensis,0.9568
+Penaeus_semisulcatus_LC155215,GBCM10626-17,Penaeus semisulcatus,1
+Litopenaeus_vannamei_KP976242,BGSF060-15,Penaeus vannamei,1
+Litopenaeus_vannamei_KP976242,PENAE066-20,Litopenaeus vannamei,0.9984
